@@ -4,4 +4,4 @@ Resolved issues in index.html file to make html 508 compliant, as well as fix se
 
 Fixed CSS files to comply with new html structure and combine lines.
 
-Image of final html code: ![Horiseon](/ReadmeIMG.jpg)
+Image of final html code: ![Horiseon](ReadmeIMG.jpg)
