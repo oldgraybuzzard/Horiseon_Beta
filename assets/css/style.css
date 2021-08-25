@@ -7,7 +7,7 @@
 body {
     background-color: #d9dcd6;
 }
-/*header secton*/
+/* Start of the header secton*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -21,6 +21,7 @@ header h1 {
 header h1 .seo {
     color: #d9dcd6;
 }
+/*Navagation links*/
 header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +50,7 @@ p {
 }
 /*End of Header*/
 
-/*Hero Section*/
+/*Start of Hero Section*/
 .hero {
     background-image: url("../images/digital-marketing-meeting.jpg");
     height: 800px;
@@ -118,6 +119,7 @@ article {
     font-size: 36px;
 }
 /*End of Hero*/
+
 /*Start of side bar*/
 .benefits {
     margin: 0 20px;
