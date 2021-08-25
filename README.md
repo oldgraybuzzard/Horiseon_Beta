@@ -1,6 +1,6 @@
-#HTML CSS Git Challenge: Code Refactor
+# HTML CSS Git Challenge: Code Refactor
 
-The purpose of this effort was to:
+## The purpose of this effort was to:
     - Refactor the code to meet the 508 compliance.
     - Refactor code to follow acceptable Semantic guidelines.
     - Refactor code to clean up code and remove unnecessary code.
