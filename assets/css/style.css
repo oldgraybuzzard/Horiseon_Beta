@@ -68,7 +68,10 @@ article {
     display: inline-block;
     margin-left: 20px;
 }
-
+.content h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+}
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -95,28 +98,21 @@ article {
     background-color: #0072bb;
     color: #ffffff;
 }
-
+/*Images for Hero section*/
 .search-engine-optimization img {
     max-height: 200px;
     float: left;
     margin-right: 20px;
 }
-
 .online-reputation-management img {
     max-height: 200px;
     float: right;
     margin-left: 20px;
 }
-
 .social-media-marketing img {
     max-height: 200px;
     float: left;
     margin-right: 20px;
-}
-
-.content h2 {
-    margin-bottom: 20px;
-    font-size: 36px;
 }
 /*End of Hero*/
 
@@ -136,7 +132,7 @@ article {
     margin-bottom: 32px;
     color: #ffffff;
 }
-
+/*Sidebar images*/
 .benefits h3 {
     color: #ffffff;
     margin-bottom: 10px;
